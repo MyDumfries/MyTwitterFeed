@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/build/
+/myTwitterFeed/build/
+/myTwitterFeed/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/

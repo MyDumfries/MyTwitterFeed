@@ -1,0 +1,19 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+        android:id="@+id/last100_menu_item"
+        android:title="Reload Last 100 Tweets">
+    </item>
+    <item 
+    	android:id="@+id/smstweet_menu_item"
+    	android:title="Post Tweet by SMS">
+	</item>
+    <item
+    	android:id="@+id/wifitweet_menu_item"
+    	android:title="Post Tweet by WiFi">
+    </item>
+    <item
+        android:id="@+id/searchtweet_menu_item"
+        android:title="Search Tweets">
+    </item>
+</menu>
